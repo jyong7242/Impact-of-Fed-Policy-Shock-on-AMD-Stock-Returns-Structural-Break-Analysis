@@ -36,6 +36,7 @@ This project investigates whether the December 18, 2024, Federal Reserve policy 
 ### 2. Structural Break Regression
 
 **Mean model**:
+
 r_t = β₀ + β₁·r_{t−1} + γ₀·D_t + γ₁·(r_{t−1}·D_t) + ε_t
 
 **Volatility model**:
